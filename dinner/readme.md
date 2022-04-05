@@ -17,7 +17,7 @@ pot, knife, cutting board, strainer
 
 
 ### Notes:
-
+Remember, good Italian pasta takes time. 
 
 
 ### Codemates #
