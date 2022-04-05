@@ -30,7 +30,7 @@ Steps for preparation:
 
 
 Notes:
-Simple recipe 
+Simple recipe but delicious! 
 
 
 ### Codemates #6
