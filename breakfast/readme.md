@@ -5,7 +5,7 @@ Omlette
 2
 
 ## Time to prepare: 
-10 minutes
+8 minutes
 
 ## Ingredients: 
 2 eggs
