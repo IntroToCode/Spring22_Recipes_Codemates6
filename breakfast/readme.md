@@ -13,11 +13,11 @@ Omlette
 
 
 ## Equipment needed: 
-pan, spatula, burner 
+pan, spatula, burner
 
 
 ## Steps for preparation: 
-cook egg on pan 
+cook egg on pan cheese
 
 
 
