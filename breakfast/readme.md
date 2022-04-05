@@ -13,7 +13,7 @@ Omlette
 
 
 ## Equipment needed: 
-pan, spatula 
+pan, spatula, burner 
 
 
 ## Steps for preparation: 
