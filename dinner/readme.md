@@ -19,7 +19,7 @@ Pan, stove, spetula
 
 
 ### Notes:
-
+Remember, good Italian pasta takes time. 
 
 
 ### Codemates #
