@@ -1,21 +1,28 @@
-# Replace with recipe name
+# Breakfast 
+Omlette
 
 ## Servings: 
+2
 
 ## Time to prepare: 
+8 minutes
 
-## Ingredients:
+## Ingredients: 
+2 eggs
 
 
-## Equipment needed:
+
+## Equipment needed: 
+pan, spatula 
 
 
-## Steps for preparation:
+## Steps for preparation: 
+cook egg on pan 
 
 
 
 ### Notes:
-
+Simple recipe 
 
 
 ### Codemates #
