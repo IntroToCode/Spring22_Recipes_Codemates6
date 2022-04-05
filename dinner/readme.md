@@ -5,7 +5,7 @@ Spaghetti with Meatballs
 ## Time to prepare: 15min
 
 ## Ingredients:
-Meatballs, tomato sauce, fresh basil, parmesan cheese block, oil oil, salt, pepper, 3 roma tomatoes, fresh pasta
+Meatballs, tomato sauce, fresh basil, parmesan cheese block, olive oil, salt, pepper, 3 roma tomatoes, fresh pasta
 
 ## Equipment needed: 
 pot, knife, cutting board, strainer
