@@ -27,7 +27,7 @@ Steps for preparation:
 
 
 ### Notes:
-
+Make sure to gently dry the lettuce so it doesn't get brown. 
 
 
 ### Codemates #6
