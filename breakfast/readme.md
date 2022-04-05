@@ -9,11 +9,13 @@ Omlette
 
 ## Ingredients: 
 2 eggs
-
+Cheddar Cheese
+Spinach
+Onion
 
 
 ## Equipment needed: 
-pan, spatula 
+pan, spatula, oil
 
 
 ## Steps for preparation: 
