@@ -2,10 +2,10 @@ Spaghetti with Meatballs
 
 ## Servings: 4 people
 
-## Time to prepare: 
+## Time to prepare: 15min
 
 ## Ingredients:
-
+Meatballs, tomato sauce
 
 ## Equipment needed: 
 
