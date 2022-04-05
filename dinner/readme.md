@@ -1,13 +1,13 @@
 # Replace with recipe name
 
-## Servings: 
+## Servings: 4 people
 
 ## Time to prepare: 
 
 ## Ingredients:
 
 
-## Equipment needed:
+## Equipment needed: 
 
 
 ## Steps for preparation:
