@@ -19,7 +19,7 @@ pan, spatula, burner
 
 
 ## Steps for preparation: 
-cook egg on pan cheese
+cook egg on pan and add cheese
 
 
 
