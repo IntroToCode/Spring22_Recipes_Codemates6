@@ -15,7 +15,7 @@ Onion
 
 
 ## Equipment needed: 
-pan, spatula, oil
+pan, spatula, burner 
 
 
 ## Steps for preparation: 
