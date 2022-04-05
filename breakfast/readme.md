@@ -1,30 +1,36 @@
-# Breakfast 
-Omlette
+Spinach & Onion Veggie Omelette
 
-## Servings: 
+Servings: 
 2
 
-## Time to prepare: 
+Time to prepare: 
 8 minutes
 
-## Ingredients: 
+Ingredients: 
 2 eggs
 Cheddar Cheese
 Spinach
 Onion
+Butter
+Salt & Pepper
+
+Equipment needed: 
+Bowl
+Pan
+Spatula
+Burner
+Knife
+Cutting Board
 
 
-## Equipment needed: 
-pan, spatula, burner
-
-
-## Steps for preparation: 
-cook egg on pan cheese
+Steps for preparation: 
+1. Crack and add the eggs to a bowl, beat them with a fork and season with salt and pepper.
+2. Once the butter is melted, add the beaten eggs, and spread over evenly, tilting the pan to ensure you get the same thickness.
 
 
 
-### Notes:
+Notes:
 Simple recipe 
 
 
-### Codemates #
+### Codemates #6
