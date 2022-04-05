@@ -1,23 +1,28 @@
-# 
-Summer Salad
+Delicious Summer Salad
 
-## Servings: 
+Servings: 
 4
 
-## Time to prepare:
+Time to prepare:
 10 minutes
 
-## Ingredients:
+Ingredients:
 Lettuce
 Blue cheese
+Radishes
+Blueberries
+Raspberries
+Roasted walnuts
 
-## Equipment needed:
+Equipment needed:
 Chopping board 
 Chopping knife
+Salad spinner
+Forks
 
-## Steps for preparation:
-Chopp up lettuce 
-Cut Blue Cheese
+Steps for preparation:
+1. Chop up lettuce 
+2. Cut Blue Cheese
 
 
 
@@ -25,4 +30,4 @@ Cut Blue Cheese
 
 
 
-### Codemates #
+### Codemates #6
