@@ -1,25 +1,25 @@
-Spaghetti with Meatballs 
+## Spaghetti with Meatballs 
 
 ## Servings: 4 people
 
 ## Time to prepare: 15min
 
 ## Ingredients:
-Meatballs, tomato sauce
+Meatballs, tomato sauce, freshly grated Parmesan, plus more for serving, extra-virgin olive oil, salt & pepper
 
 ## Equipment needed: 
-Pan, stove, spetula
+Pan, stove, spatula, strainer
 
 ## Steps for preparation:
 1. Heat the pan with olive oil on medium heat
 2. Once heated, add meatballs to the pan
-3. After 5min, add tomato sauce
-4. cover the lid and let it cook for 5 more min
+3. After 5 min, add tomato sauce
+4. Cover the lid and let it cook for 5 more min
 5. Viola!
 
 
-### Notes:
+## Notes:
 Remember, good Italian pasta takes time. 
 
 
-### Codemates #
+### Codemates #6
