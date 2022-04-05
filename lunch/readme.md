@@ -18,7 +18,7 @@ Equipment needed:
 Chopping board 
 Chopping knife
 Salad spinner
-Forks
+Tongs
 
 Steps for preparation:
 1. Chop up lettuce 
