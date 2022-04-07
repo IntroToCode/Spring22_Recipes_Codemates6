@@ -4,15 +4,16 @@ Servings:
 4
 
 Time to prepare:
-10 minutes
+15 minutes
 
 Ingredients:
-Lettuce
-Blue cheese
-Radishes
-Blueberries
-Raspberries
-Roasted walnuts
+2 heads of Romaine Lettuce
+1/2 cup Crumbled Blue cheese
+6 Radishes
+2/3 cup Blueberries
+1/2 cup Raspberries
+1/3 cup Roasted Walnuts
+1/3 cup Poppy Seed Creamy Dressing
 
 Equipment needed:
 Chopping board 
@@ -21,8 +22,9 @@ Salad spinner
 Tongs
 
 Steps for preparation:
-1. Chop up lettuce 
-2. Cut Blue Cheese
+1. Wash all fresh fruits and vegetables. Spin the lettuce to drain off excess fluid.
+2. Chop up lettuce and slice the radishes. 
+3. Toss vegtables, nuts, and fruit ingrediendts into a bowl and use tongs to combine.
 
 
 
