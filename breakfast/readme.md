@@ -27,8 +27,11 @@ Cutting Board
 
 
 Steps for preparation: 
-1. Crack and add the eggs to a bowl, beat them with a fork and season with salt and pepper.
-2. Once the butter is melted, add the beaten eggs, and spread over evenly, tilting the pan to ensure you get the same thickness.
+1. Crack and add the eggs to a bowl, beat them with a fork and season with salt and pepper. 
+2. Cut the spinach and onion with a knife.
+3. Once the butter is melted cut butter with a knife, add butter to pan, and spread over evenly, tilting the pan to ensure you get the same thickness.
+4. Sprinkle the spinach and onion on the egg.
+5. Let everything cook together.
 
 
 
