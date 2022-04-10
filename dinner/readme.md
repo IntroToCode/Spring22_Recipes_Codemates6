@@ -7,7 +7,7 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.loveandlemons.com%2Fspaghe
 ## Time to prepare: 15min
 
 ## Ingredients:
-Meatballs, tomato sauce, freshly grated Parmesan, plus more for serving, extra-virgin olive oil, salt & pepper
+Meatballs (beef meatballs are preferable here), tomato sauce, freshly grated Parmesan, plus more for serving, extra-virgin olive oil, salt & pepper
 
 ## Equipment needed: 
 Pan, stove, spatula, strainer
