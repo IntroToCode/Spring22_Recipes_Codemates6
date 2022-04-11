@@ -1,4 +1,4 @@
-Delicious Summer Salad
+Blue Cheese and Berry Summer Salad
 
 ![alt text](https://genabell.com/wp-content/uploads/2020/07/04-22-Blueberry-Radish-Salad-with-Creamy-Vinaigrette-045-1280x960-1080x810-1080x810.jpg)
 
